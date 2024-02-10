@@ -106,4 +106,6 @@ The reshuffled cards are emitted, and their states are observed on the server. T
 
 
 - Priyanshu Soni
-- Mohammed Saad
+- Ayush Singh
+- Prateek Kumar
+- Smit Shah
